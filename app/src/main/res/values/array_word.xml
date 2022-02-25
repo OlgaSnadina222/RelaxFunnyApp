@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="word">
+        <item>Свобода|</item>
+        <item>Успех|</item>
+        <item>Надежда|</item>
+        <item>Семья|</item>
+        <item>Невероятное|</item>
+        <item>Любовь|</item>
+        <item>Предназначение|</item>
+        <item>Статус|</item>
+        <item>Инстрига|</item>
+        <item>Объятия|</item>
+        <item>Солнце|</item>
+        <item>Звезда|</item>
+        <item>Истина|</item>
+        <item>Аппокалипсис|</item>
+        <item>Искатель|</item>
+        <item>Снисхождение|</item>
+        <item>Падение|</item>
+        <item>Примета|</item>
+        <item>Решение|</item>
+        <item>Знаток|</item>
+    </string-array>
+</resources>
